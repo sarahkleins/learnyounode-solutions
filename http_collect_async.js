@@ -15,6 +15,3 @@ urls.forEach(function(url) {
     });
   });
 });
-
-
-
